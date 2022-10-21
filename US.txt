@@ -1,0 +1,8 @@
+1 As a user , I want to be able to choose ingredients to exclude
+so i can get an optimized and personalized experience
+2 As a power user, i want to be able to connect users to third parties (such as 
+websites or other)
+so i can provide the user with as much information as possible, relying on already 
+developed systems
+3 As a user,i want a minimal and simple environment
+so i can enjoy a complete and immediate experience

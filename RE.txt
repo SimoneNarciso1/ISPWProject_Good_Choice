@@ -1,0 +1,10 @@
+Requirement
+The system shall :
+provide a binary choice simplifying every action for the user
+The system shall:
+provide solutions in line with the parameters selected by the user
+The system shall:
+1)warn in case of latency with a message on the screen
+2)warn of problems with websites or web apps
+with a message on the screen specifying the nature of the problem
+3)provide information through a graphical interface
