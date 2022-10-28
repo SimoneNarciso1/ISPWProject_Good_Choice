@@ -1,0 +1,18 @@
+Name : recipe search
+1) the user requests to search for a recipe
+2)the system makes a form available to the user to enter the name of the recipe
+3)the user enters the name of the recipe
+4)the system starts a search from google API
+5)the system takes data from third parties (websites)
+6)the system displays a list with the search results on the screen
+7)the user selects the recipe from the available list
+8)the user ends the search
+
+Extension :
+---------------
+2.a) Log-in
+3.a)the entered word was not found, send a message on the screen specifying the problem
+4.a)internet connection not available, send a message on the screen specifying the problem
+5a)inconsistent or incorrect data, displays a warning on the screen with the possibility of starting a new search
+7.a)(user logged in) save the recipe, a list will be created with all the details of the search carried out (* EXTEND)
+7.b)(user logged in) select "watch video recipe if available", a video will be shown on the screen (* EXTEND)
